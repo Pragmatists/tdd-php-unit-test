@@ -8,4 +8,5 @@ https://phpunit.readthedocs.io/en/8.4/
 
 ## Running test
 `composer install`
+
 `.\vendor\bin\phpunit`
